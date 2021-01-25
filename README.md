@@ -9,6 +9,7 @@ Google Cloud Engineer repository on my journey to becoming a cloud expert. Topic
 
 ![Certificate](/Images/WTQC6QXHN4EH_page-0001.jpg)
 </br>
+</br>
 ![Certificate](/Images/NSK4RM5XJKZG_page-0001.jpg)
 
 

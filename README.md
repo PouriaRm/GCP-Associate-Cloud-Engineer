@@ -1,4 +1,4 @@
-Google Cloud Associate Engineer repository on my journey to becoming a cloud expert. Feel free to take a look at the resources I used under the Links section. The ACE exam covers the following topics:
+Google Cloud Associate Engineer repository on my journey to becoming a cloud expert. Topics:
 
 1. Setting up a cloud solution environment
 2. Planning and configuring a cloud solution

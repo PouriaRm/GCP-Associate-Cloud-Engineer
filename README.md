@@ -1,4 +1,4 @@
-Google Cloud Associate Engineer repository on my journey to becoming a cloud expert. Topics:
+Google Cloud Engineer repository on my journey to becoming a cloud expert. Topics:
 
 1. Setting up a cloud solution environment
 2. Planning and configuring a cloud solution

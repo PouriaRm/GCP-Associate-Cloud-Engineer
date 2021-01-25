@@ -10,5 +10,5 @@ Google Cloud Associate Engineer repository on my journey to becoming a cloud exp
 </br> 
 
 # Links:
-- Architecting with Google Compute Engine Specialization
+- Architecting with Google Compute Engine Professional Certificate
 https://www.coursera.org/account/accomplishments/specialization/certificate/NSK4RM5XJKZG

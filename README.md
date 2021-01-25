@@ -6,5 +6,6 @@ Deploying and implementing a cloud solution
 Ensuring successful operation of a cloud solution
 Configuring access and security
 #googlecloudplatform #gcp #associatecloudengineer #googlecloudcertified #businesschallenges #iam #api #billing #alerts #quotas #autoscaling #loadbalancing #computeengine #kubernetes #appengine #cloudrun #cloudfunctions #cloudSQL #cloudSpanner #cloudBigtable #firebase #BigQuery #CloudPub/Sub #GoogleCloudStorage #cloudDataproc #cloudDataflow #cloudDataprep #cloudDNS #VPC #Stackdriver #cloudDeploymentManager #cloudMarketplace
-</br># Links:
+</br> 
+# Links:
 - Architecting with Google Compute Engine Specialization

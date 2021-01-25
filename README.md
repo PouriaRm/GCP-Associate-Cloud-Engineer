@@ -6,10 +6,12 @@ Google Cloud Engineer repository on my journey to becoming a cloud expert. Topic
 4. Ensuring successful operation of a cloud solution
 5. Configuring access and security 
 </br>
-#googlecloudplatform #gcp #associatecloudengineer #googlecloudcertified #businesschallenges #iam #api #billing #alerts #quotas #autoscaling #loadbalancing #computeengine #kubernetes #appengine #cloudrun #cloudfunctions #cloudSQL #cloudSpanner #cloudBigtable #firebase #BigQuery #CloudPub/Sub #GoogleCloudStorage #cloudDataproc #cloudDataflow #cloudDataprep #cloudDNS #VPC #Stackdriver #cloudDeploymentManager #cloudMarketplace
-</br> 
 
 ![Certificate](/Images/WTQC6QXHN4EH_page-0001.jpg)
+
+</br>
+#googlecloudplatform #gcp #associatecloudengineer #googlecloudcertified #businesschallenges #iam #api #billing #alerts #quotas #autoscaling #loadbalancing #computeengine #kubernetes #appengine #cloudrun #cloudfunctions #cloudSQL #cloudSpanner #cloudBigtable #firebase #BigQuery #CloudPub/Sub #GoogleCloudStorage #cloudDataproc #cloudDataflow #cloudDataprep #cloudDNS #VPC #Stackdriver #cloudDeploymentManager #cloudMarketplace
+</br> 
 
 # Links:
 - Architecting with Google Compute Engine Professional Certificate

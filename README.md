@@ -9,6 +9,8 @@ Google Cloud Engineer repository on my journey to becoming a cloud expert. Topic
 #googlecloudplatform #gcp #associatecloudengineer #googlecloudcertified #businesschallenges #iam #api #billing #alerts #quotas #autoscaling #loadbalancing #computeengine #kubernetes #appengine #cloudrun #cloudfunctions #cloudSQL #cloudSpanner #cloudBigtable #firebase #BigQuery #CloudPub/Sub #GoogleCloudStorage #cloudDataproc #cloudDataflow #cloudDataprep #cloudDNS #VPC #Stackdriver #cloudDeploymentManager #cloudMarketplace
 </br> 
 
+![Certificate](/Images/Coursera WTQC6QXHN4EH_page-0001.jpg)
+
 # Links:
 - Architecting with Google Compute Engine Professional Certificate
 https://www.coursera.org/account/accomplishments/specialization/certificate/NSK4RM5XJKZG
